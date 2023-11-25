@@ -1,0 +1,12 @@
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\bin\Debug\net7.0\ContactBook_API.Data.deps.json
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\bin\Debug\net7.0\ContactBook_API.Data.dll
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\bin\Debug\net7.0\ContactBook_API.Data.pdb
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ContactBook_API.Data.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ContactBook_API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ContactBook_API.Data.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ContactBook_API.Data.AssemblyInfo.cs
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ContactBook_API.Data.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ContactBook_API.Data.dll
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\refint\ContactBook_API.Data.dll
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ContactBook_API.Data.pdb
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Data\obj\Debug\net7.0\ref\ContactBook_API.Data.dll

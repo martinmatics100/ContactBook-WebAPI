@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\bin\Debug\net7.0\ContactBook_API.Core.deps.json
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\bin\Debug\net7.0\ContactBook_API.Core.dll
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\bin\Debug\net7.0\ContactBook_API.Core.pdb
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\bin\Debug\net7.0\ContactBook_API.Data.dll
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\bin\Debug\net7.0\ContactBook_API.Data.pdb
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.AssemblyInfo.cs
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.csproj.CopyComplete
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.dll
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\refint\ContactBook_API.Core.dll
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ContactBook_API.Core.pdb
+C:\Users\marti\Desktop\Extracted Files\ContactBook_API-2\ContactBook_API.Core\obj\Debug\net7.0\ref\ContactBook_API.Core.dll
