@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y21TjCDxijUfaf2xJsCI7i9WZcJTyoSW9lEe9eNQoAmwuWnHX3pxm1rCiSU89Msso09WwdZqq952QtvuYCt9Mg==",
+  "dgSpecHash": "fR2SC7lIvuO1PQ9pOlJWmiHO0yXK7z+hOMIfF+AhXiBYpdhD8bVyMwFBXxB77d6H0REe85kTm5YOiEtYoE2zFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\Extracted Files\\ContactBook_API-2\\ContactBook_API.Data\\ContactBook_API.Data.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\ContactBook-WebApi\\ContactBook-WebAPI\\ContactBook_API-2\\ContactBook_API.Data\\ContactBook_API.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

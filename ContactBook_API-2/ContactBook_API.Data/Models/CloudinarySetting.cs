@@ -11,5 +11,6 @@ namespace ContactBook_API.Data.Models
         public string CloudName { get; set; }
         public string ApiKey { get; set; }
         public string ApiSecret { get; set; }
+
     }
 }
